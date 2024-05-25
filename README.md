@@ -5,6 +5,7 @@ Step 1: Getting python.
 
 Step 2: Necessary libraries.
         These are the libraries needed for the program:
+        
           CV2 (OpenCV)
           
           Time //Comes with python
