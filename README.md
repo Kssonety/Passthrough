@@ -32,9 +32,19 @@ Step 3: Python Wallpaper Library Setup.
 Install the latest release of this repository: https://github.com/sindresorhus/windows-wallpaper/releases
 
 Extract the zip file.
+When you are in the extracted folder, you should see two files. (wallpaper.exe and wallpaper.pdb)
+Rename them to win-wallpaper.exe and win-wallpaper.pdb
 
-For this you need your python LIBRARY installation path, to find it open Command Prompt and type:
+For this you need your PYTHON LIBRARY installation path, to find it open Command Prompt and type:
 
         where python
 
 It should output a few directories, make sure to use the (\Python\Python311\python.exe) one.
+Go to the (\Python\Python311\) and then open the 'Lib' folder.
+Now open the 'site-packages' folder, and in there, open the wallpaper folder.
+
+Now you can copy the win-wallpaper.exe and win-wallpaper.pdb to the (\Python\Python311\Lib\site-packages\wallpaper) folder.
+
+And that should all be done!
+
+Now run the python file in the passthrough folder
