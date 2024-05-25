@@ -21,10 +21,10 @@ Step 2: Necessary libraries.
         To install a library, use the command : pip install 'library name here' in Command Prompt or Visual Studio Code.
         
         These are the commands : 
-        ````    
+        ```
           CV2 : pip install opencv-python
           Wallpaper : pip install py-wallpaper
-        ````    
+        ```    
           
           
 Step 3: Python Wallpaper Library Setup.
