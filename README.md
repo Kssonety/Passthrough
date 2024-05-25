@@ -29,4 +29,12 @@ These are the commands :
 Step 3: Python Wallpaper Library Setup.
         Python wallpaper won't work on it's own due to missing files, but let us fix that!
 
-        Install the latest release of this repository: https://github.com/sindresorhus/windows-wallpaper/releases
+Install the latest release of this repository: https://github.com/sindresorhus/windows-wallpaper/releases
+
+Extract the zip file.
+
+For this you need your python LIBRARY installation path, to find it open Command Prompt and type:
+
+        where python
+
+It should output a few directories, make sure to use the (\Python\Python311\python.exe) one.
